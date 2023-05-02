@@ -8,6 +8,7 @@ namespace WebScrapping.Models
 {
     public class GameEngine
     {
+
         public string Name { get; set; }
         public string Employees { get; set; }
         public string Engine { get; set; }
